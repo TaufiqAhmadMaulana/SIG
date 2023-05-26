@@ -1,0 +1,14 @@
+
+
+.table{
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+}
+.table th{
+    color: white;
+    background-color: rgb(0, 204, 3);
+}
+
+
+
